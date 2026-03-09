@@ -16,7 +16,13 @@ This project is a high-level Machine Learning solution designed to predict finan
 ##  Model Performance
 The model achieved a balanced performance between precision and recall, as shown in the Confusion Matrix generated during the training phase.
 
-> *Note: Include your Confusion Matrix and SHAP Summary Plot images here!*
+## 📊 Model Performance
+
+### Confusion Matrix
+![Confusion Matrix](matriz_confusao.png)
+
+### SHAP Explainability (Model Intelligence)
+![SHAP Summary](shap_summary.png)
 
 ##  Project Structure
 - `notebooks/`: Main development in Google Colab.
